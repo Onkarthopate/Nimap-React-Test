@@ -1,4 +1,4 @@
-# Movie Listing & Search App
+# FilmFolio
 
 A web application built using **React** that displays movies from The Movie Database (TMDb). The app allows users to browse popular, top-rated, and upcoming movies, and search for movies by name. It includes paginated views for each section, ensuring a smooth browsing experience.
 
